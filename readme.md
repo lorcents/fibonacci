@@ -1,7 +1,5 @@
 # Fibonacci Sequence Implementation in C
 
-This project provides three different implementations of the Fibonacci sequence based on the piecewise recurrence relation F(n) = F(n-3) + F(n-2), where F(0) = 0, F(1) = 1, and F(2) = 2.
-
 ## Implementation Details
 
 The project includes the following files:
